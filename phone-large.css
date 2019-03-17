@@ -1,0 +1,43 @@
+
+body {
+	font-family: helvetica, arial, sans-serif; font-size: 14px; margin: 16px;
+}
+
+
+#switchbutton{width: 200px; height: 50px; font-size: 25px;font-weight:bold; background-color: green; color: white;margin: 5px;border-radius: 5px;}
+.styleChange{font-size: 60px;color: white; background-color: black;}
+.largeupbarbutton{width: 200px;height: 50px; font-size: 30px ;}
+.tablechange {font-size: 60px}
+.buttonchange { width: 300px; height: 100px; font-size: 30px;font-weight:bold; background: rgb(220, 220, 220);  margin: 10px;border-radius: 10px;}
+
+
+
+
+.start {background-color: white}
+.end {background-color: rgb(220, 220, 220);}
+.upbarbutton { width: 100px;height: 25px; margin: 5px;margin-bottom: 0px;border-top-left-radius: 5px;border-top-right-radius: 5px;}
+.dialerkey { width: 100px; height: 50px; font-weight:bold; background: rgb(220, 220, 220);  margin: 5px;border-radius: 5px;}
+.functionkey { width: 157px; height: 50px;  font-weight:bold;background: rgb(220, 220, 220); margin: 5px; border-radius: 5px;}
+#number {width: 330; height: 40px; border-radius: 5px; margin: 5px;}
+.hfont {font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+.insidefont {font-family: Arial, Helvetica, sans-serif;}
+#name {width: 250; height: 30px; border-radius: 5px; margin: 5px;}
+#phonenumber {width: 250; height: 30px;  border-radius: 5px; margin: 5px;}
+#emailaddress {width: 250; height: 30px; border-radius: 5px; }
+#addcontact {height: 30px;background: rgb(220, 220, 220);border-radius: 5px;}
+#clearinfo {height: 30px;background: rgb(220, 220, 220);border-radius: 5px;}
+
+
+/*.upbarbutton { width: 100px;height: 25px; font-size: 14px ;margin: 5px;margin-bottom: 0px;border-top-left-radius: 5px;border-top-right-radius: 5px;}
+.dialerkey { width: 100px; height: 50px; font-size: 14px ;font-weight:bold; background: rgb(220, 220, 220);  margin: 5px;border-radius: 5px;}
+/*.contactname {height: 30px; font-size: 14px;background: rgb(220, 220, 220);margin: 2px;border-radius: 5px;}*/
+/*.contacttable {border: 1px;}
+.functionkey { width: 157px; height: 50px; font-size: 14px; font-weight:bold;background: rgb(220, 220, 220); margin: 5px; border-radius: 5px;}
+#number {width: 330; height: 40px; border-radius: 5px; margin: 5px;}
+.hfont {font-family: Arial, Helvetica, sans-serif;font-size: 25px; font-weight: bold;}
+.insidefont {font-family: Arial, Helvetica, sans-serif;font-size: 15px;}
+#name {width: 250; height: 30px; font-size: 14px;border-radius: 5px; margin: 5px;}
+#phonenumber {width: 250; height: 30px; font-size: 14px; border-radius: 5px; margin: 5px;}
+#emailaddress {width: 250; height: 30px; font-size: 14px;border-radius: 5px; }
+#addcontact {height: 30px;font-size: 14px;background: rgb(220, 220, 220);border-radius: 5px;}
+#clearinfo {height: 30px;font-size: 14px;background: rgb(220, 220, 220);border-radius: 5px;}*/
